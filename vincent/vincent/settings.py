@@ -13,7 +13,7 @@ BOT_NAME = 'vincent'
 
 SPIDER_MODULES = ['vincent.spiders']
 NEWSPIDER_MODULE = 'vincent.spiders'
-HTTP_CACHE_ENABLED = True
+# HTTP_CACHE_ENABLED = True
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
