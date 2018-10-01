@@ -1,1 +1,1 @@
-To add additional searhc strings, edit the `input_strings` list in `obermatt_crawler` spider.
+To add additional search strings, edit the `input_strings` list in `obermatt_crawler` spider.
