@@ -1,0 +1,8 @@
+[
+{"name": "Adecco", "search_code": "SWX:ADEN", "scraping_date_time": "2018-10-01 12:21:13.109825", "rating": "SELL", "value_rank": 75.0, "growth_rank": 1.0, "safety_rank": 23.0, "combined_rank": 23.0},
+{"name": "Salzgitter", "search_code": "DE:SZG", "scraping_date_time": "2018-10-01 12:21:13.165508", "rating": "BUY", "value_rank": 78.0, "growth_rank": 55.0, "safety_rank": 90.0, "combined_rank": 89.0},
+{"name": "Sunrise Communications Group", "search_code": "SWX:SRCG", "scraping_date_time": "2018-10-01 12:21:13.844922", "rating": "SELL", "value_rank": 72.0, "growth_rank": 14.0, "safety_rank": 50.0, "combined_rank": 29.0},
+{"name": "Charoen Pokphand Foods", "search_code": "SET:CPF", "scraping_date_time": "2018-10-01 12:21:14.145197", "rating": "SELL", "value_rank": 100.0, "growth_rank": 25.0, "safety_rank": 30.0, "combined_rank": 25.0},
+{"name": "Glencore International", "search_code": "LSE:GLEN", "scraping_date_time": "2018-10-01 12:21:15.114636", "rating": "HOLD", "value_rank": 83.0, "growth_rank": 55.0, "safety_rank": 12.0, "combined_rank": 45.0},
+{"name": "Bangkok Airways Public", "search_code": "SET:BA", "scraping_date_time": "2018-10-01 12:21:15.757950", "rating": "SELL", "value_rank": 56.0, "growth_rank": 1.0, "safety_rank": 56.0, "combined_rank": 12.0}
+]
