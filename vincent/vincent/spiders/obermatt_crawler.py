@@ -24,7 +24,7 @@ class ObermattCrawler(scrapy.Spider):
     def parse(self, response):
         url = response.css(
             'a::attr(href)'
-        ).re_first(r'q=(.+\/stock-research.html)')
+        ).re_first(r'q=(https://www\.obermatt\.com\/.+\/stock-research.html)')
 
         search_code = self.input_strings[self.input_index]
         obermattSpider = Obermatt(search_code)
